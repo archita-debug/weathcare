@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/WeathCare-AI%20Weather%20Safety-0ea5e9?style=for-the-badge&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/WeathCare-AI%20Weather%20Safety-0ea5e9?style=for-the-badge&logo=cloudflare&logoColor=white"/>
 
 # WeathCare
 
